@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Merriweather', serif;
+    color: #421322;
+    background-color: #FBF7F5;
+    width: 90%;
+    max-width: 850px;
+    height: auto;
+    padding: 2px 20px;
+    margin: 0 auto 60px auto;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-top: 20px;
+    font-size: 400%;
+}
+
+h2 {
+    font-size: 200%;
+    font-family: 'Oswald', sans-serif;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 18px;
+    padding: 5px 0px 15px 0px;
+}
+
+blockquote {
+    font-size: 18px;
+    padding: 5px 0px 15px 25px;
+    font-style: italic
+}
+
+a {
+    color: #BD571C;
+    text-decoration: none;
+    transition: 200ms;
+    transition-timing-function: ease-in-out;
+    -webkit-transition: 200ms;
+    -webkit-transition-timing-function: ease-in-out;
+}
+
+a:hover {
+    color: #97512F;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 0px 15px 0px;
+    width: inherit
+}
+
+ul {
+    font-size: 18px;
+    padding: 5px 0px 15px 50px;
+}
+
+li {
+    padding: 5px 0px 0px 0px;
+}
+
+#outro p {
+    margin: 0px 10px 0px 50px;
+    font-size: 120%;
+}
+
+#twovids iframe {
+    display: inline-block;
+    width: 47%;
+}
+
+#twocharts img {
+    display: inline-block;
+    width: 49%
+}
+
+@media only screen and (max-width: 850px) {
+    #twovids iframe {
+        display: block;
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 100%;
+        height: 350px;
+    }
+
+    #twocharts img {
+        width: 100%;
+    }
+    
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 98%;
+}

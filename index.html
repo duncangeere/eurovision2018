@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Eurovision 2018 Data Analysis</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Merriweather|Oswald" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+    <h1>Eurovision 2018 Data Analysis</h1>
+    <p>On 12 May 2018, I gathered a collection of my friends together at my home for a Eurovision watching party. We do something similar every year, but this year we took things a step further.</p>
+    <p>As the contest began, I handed out sheets of paper and pencils to everyone, and asked them to give each country a score out of five on three scales - song, performance and staging. Everyone was a bit bemused, but did it anyway, and I ended up with a <a href="eurovision.csv">huge dataset of 1092 individual votes</a>. I promised I'd analyse it all, and this is me fulfilling my promise, seven months later.</p>
+
+    <h2>Who won?</h2>
+    <p>The first thing I wanted to do with the data was crown a winner from the votes at the party. As you probably remember, Israel's bonkers entry - <a href="https://www.youtube.com/watch?v=84LBjXaeKk4">Toy by Netta</a> - took the prize at the official event, followed by <a href="https://www.youtube.com/watch?v=vyDTbJ4wenY">Cyprus</a> then <a href="https://www.youtube.com/watch?v=a8Yvzo1puoE">Austria</a>. But what would prove the most popular with the voters in my living room?</p>
+    <img src="images/who_won.png">
+    <p>It's not really a surprise that Netta took the first place at our little awards ceremony too. It was an incredible performance. But what was a surprise was the popularity of Finland's entry, <a href="https://www.youtube.com/watch?v=hdjiuCUUpPc">Monsters by Saara Aalto</a>. It came second-to-last in the official votes, but we put it second. Similarly, Europe loved Cyprus' entry, Fuego by Eleni Fourerira, but we didn't think it was much good at all.</p>
+
+    <div class="videoWrapper">
+        <!-- Copy & Pasted from YouTube -->
+        <iframe src="https://www.youtube.com/embed/vyDTbJ4wenY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <h2>Who won in each catergory?</h2>
+    <p>One of the nice things about getting people to score in terms of song, performance and staging is that we could crown a winner in each category.</p>
+    <img src="images/cat_winners.png">
+    <p>Our jury felt that Austria clearly had the best song, but Israel's scores in performance and staging gave it the victory.</p>
+    <blockquote>A thought for next year: is it right to weight song, performance and staging equally? Should one category have more weight? It is a "song" contest after all.</blockquote>
+    <p>What's perhaps surprising is that Israel's song score ended up rather low. Netta came twelfth in that category. Austria's performance score was up there with its song score but the staging left a lot to be desired, according to our voters.</p>
+    <p>One other interesting discrepancy I'd like to note is Moldova's similarly bonkers song, which scored in the top three for staging, but a lot lower in song and performance.</p>
+
+    <div class="videoWrapper">
+        <!-- Copy & Pasted from YouTube -->
+        <iframe src="https://www.youtube.com/embed/m1kjPaVAeeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <h2>Is it better to sing in English?</h2>
+    <p>A persistent question at Eurovision over the years is the importance of singing in English, which is generally the lingua franca of Europe. In 2018, about two thirds of songs were in English, and the rest were in their native languages. The only oddity was Estonia's entry, where Elina Nechayeva performed the operatic La Forza in Italian.</p>
+
+    <div class="videoWrapper">
+        <!-- Copy & Pasted from YouTube -->
+        <iframe src="https://www.youtube.com/embed/ImawXdXIGd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+
+    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.72, while songs not in English got a mean score of 5.25. Doing an unpaired two-tailed t test with a significance level of 99.9% indicates that this is a statistically significant difference.</p>
+    <p>If we compare the distributions of the English and non-English scores, you can see that they're both a similar shape, but people are much more inclined to give top scores (7+) to English-language songs than they are to songs in other languages.</p>
+
+    <div id="twocharts">
+        <img src="images/yes_english.png">
+        <img src="images/not_english.png">
+    </div>
+
+    <h2>Does the order of performance affect the scores?</h2>
+    <p>In Eurovision, the conventional wisdom is that going first is really bad because people will have forgotten you by the time they vote. Is that true in our group? We can find out by taking a look at a scatterplot of the running order and the scores we gave.</p>
+    <img src="images/scatterplot.png">
+    <p>What a mess. There's no obvious trend here, but running a simple linear regression gives us a very slight positive correlation of 1.04. That means that a song that goes last might accumulate about 25 more points, across all voters and categories, than one which goes first.</p>
+    <p>This sorta makes sense, as people might not want to give away very high scores right at the start but might be more comfortable doing that later on. But honestly, the variance in the data is so high that I'm not confident calling this a real finding. It might just be the case that it skewed positive because Israel and Finland were near the end. The only conclusion I'd be comfortable with here is that the order of performance didn't really affect the scores from our voters at all.</p>
+
+    <h2>Who awarded the most points?</h2>
+    <p>Time to turn our attention to the voters, rather than the countries. Different people have different internal ratings systems, and I deliberately didn't tell people how they should allocate their points. Here's a bar chart showing how many points different voters gave out over the whole night.</p>
+    <img src="images/generosity_bars.png">
+    <p>Despoina, Scott and Nikos were the most generous voters. The least generous were Chris, Nataša and Kennet</p>
+
+    <h2>Do people vote higher or lower for their own country?</h2>
+    <p>Some people are full of patriotic spirit. Others less so. We can see who gave an above-average score to their own country by subtracting the score they gave to that country from the average vote that others gave it.</p>
+    <p>In this analysis, I had to leave out Anton, Nikos & Despoina, whose countries didn't make it to the final, and Scott & Aurora, whose country doesn't participate in Eurovision (yet). Sorry folks!</p>
+    <img src="images/own_country.png">
+    <p>Of the people whose countries were in the final, Eva, Nataša, Duncan and Silfa (just about) ranked their country higher than others did, while Frida, Karl, Chris, Kennet and Josefin ranked their country lower than others did. What did Sweden ever do to you, Frida?</p>
+
+    <h2>Whose votes represented Europe best?</h2>
+    <p>Our scores had some similarities with the final scores given by the entirety of Europe, but they also some major differences (looking at you, Finland and Cyprus). I wanted to know - who in the room was closest to the pulse of Europe's musical taste?</p>
+    <p>To figure this out, I compared everyone's country rankings with the country rankings for Europe, using <a href="https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient">Kendall's rank correlation method</a>. This spits out a number from 1 (exact match) to -1 (total opposite). Here are the correlations, arranged in order of closeness to Europe, to furthest from Europe.</p>
+    <img src="images/europe_similarity.png">
+    <p>The closest voter to Europe was Eva! The furthest away was Nataša. You rebel, Nataša.</p>
+
+    <h2>Who voted similarly?</h2>
+    <p>Using the same principle, we can see whose votes correlated most closely. For each voter, we can get their top three matches.</p>
+    <ul>
+        <li><strong>Chris:</strong> Karl, Aurora, Frida</li>
+        <li><strong>Karl:</strong> Silfa, Chris, Frida</li>
+        <li><strong>Duncan:</strong> Silfa, Eva, Anton</li>
+        <li><strong>Nikos:</strong> Despoina, Nataša, Kennet</li>
+        <li><strong>Despoina:</strong> Nikos, Kennet, Duncan</li>
+        <li><strong>Frida:</strong> Aurora, Kennet, Eva</li>
+        <li><strong>Scott:</strong> Kennet, Aurora, Frida</li>
+        <li><strong>Anton:</strong> Nataša, Duncan, Silfa</li>
+        <li><strong>Kennet:</strong> Frida, Scott, Eva</li>
+        <li><strong>Eva:</strong> Josefin, Duncan, Frida</li>
+        <li><strong>Josefin:</strong> Eva, Aurora, Frida</li>
+        <li><strong>Aurora:</strong> Frida, Chris, Josefin</li>
+        <li><strong>Nataša:</strong> Anton, Duncan, Nikos</li>
+        <li><strong>Silfa:</strong> Duncan, Karl, Frida</li>
+    </ul>
+    <p>Let's visualise that in a network chart!</p>
+    <img src="images/influence.png">
+    <p>Woah. I think it's really interesting to compare this to who sat next to each other in the room. Here's a photo from the evening that I hope Karl doesn't mind me using! (Aurora's not in it because she took the photo).</p>
+    <img src="images/seatingplan.jpg">
+
+    <h2>Taking it too far</h2>
+    <p>There's a technique we can borrow from machine learning which looks for patterns in the data and tries to cluster voters into groups based on how similar their voting was. It's called <a href="https://en.wikipedia.org/wiki/K-means_clustering">k-means clustering</a>, and it involves an element of randomness, so take all this next bit with a pinch of salt.</p>
+    <p>Running the numbers here gives us four groups of voters.</p>
+    <ul>
+        <li><strong>Group One:</strong> Chris, Frida, Eva, Josefin</li>
+        <li><strong>Group Two:</strong> Anton, Nataša</li>
+        <li><strong>Group Three:</strong> Nikos, Despoina, Scott, Kennet (and Europe's votes)</li>
+        <li><strong>Group Four:</strong> Karl, Duncan, Silfa</li>
+    </ul>
+    <p>We can see those groups in our network chart from above. They tend to follow the lines of maximum influence (but not in all cases):</p>
+    <img src="images/influence_groups.png">
+    <p>The final thing I'd like to do is look at what defines these groups, which I'm doing by comparing their average scores for each song with everyone else's average scores for each song. By doing this, we can find out the songs which defined that group's identity. These weren't the songs they voted highest or lowest, they were the ones they voted abnormally high or low compared to the rest of the group.</p>
+    <p>Doing this, we get the following results:</p>
+
+    <h4>Group One (Chris, Frida, Eva, Josefin)</h4>
+    <p>High: Lithuania<br>
+        Low: Australia</p>
+    <h4>Group Two (Anton, Nataša)</h4>
+    <p>High: Albania<br>
+        Low: Lithuania</p>
+    <h4>Group Three (Nikos, Despoina, Scott, Kennet)</h4>
+    <p>High: Italy<br>
+        Low: Moldova</p>
+    <h4>Group Four (Karl, Duncan, Silfa)</h4>
+    <p>High: Ukraine<br>
+        Low: Portugal</p>
+
+    <p>There's loads more that I could dig into in this data, but I've got to stop somewhere so I'll stop here. If there's anything in particular that you'd like me to look into in the data, drop me an email at <a href="mailto:radio.edit@gmail.com">radio.edit@gmail.com</a>.</p>
+    <p>Also, I'm a relative beginner at this kind of analysis, and it's the first time I've used some of these techniques, so if I've misrepresented something or got something plain wrong, then I'd love to hear about it. Again, drop me an email at <a href="mailto:radio.edit@gmail.com">radio.edit@gmail.com</a>.</p>
+    <p>Finally, thanks to all my voters, to Kevin Markham at <a href="https://www.dataschool.io/">dataschool.io</a> for amazing Pandas tutorials, to Eden for CSS tips, to Silfa for being the best partner-in-crime anyone could ever wish for, and to the Eurovision Song Contest for delivering such joys into my life every year.</p>
+
+    <div id="outro">
+        <p>- <a href="http://www.duncangeere.com">Duncan Geere</a>, December 2018.</p>
+    </div>
+</body>
