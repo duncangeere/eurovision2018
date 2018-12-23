@@ -4,9 +4,26 @@
     <title>Eurovision 2018 Data Analysis</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <meta property="og:image" content="images/fbpreview.png" />
+    
     <link href="https://fonts.googleapis.com/css?family=Merriweather|Oswald" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="style.css">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-59049444-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-59049444-1');
+
+    </script>
+
 </head>
 
 <body>
@@ -112,20 +129,20 @@
     <img src="images/influence_groups.png">
     <p>The final thing I'd like to do is look at what defines these groups, which I'm doing by comparing their average scores for each song with everyone else's average scores for each song. By doing this, we can find out the songs which defined that group's identity. These weren't the songs they voted highest or lowest, they were the ones they voted abnormally high or low compared to the rest of the group.</p>
     <p>Doing this, we get the following results:</p>
-    
+
     <div id="groups">
-    <h3>Group One (Chris, Frida, Eva, Josefin)</h3>
-    <p>High: Lithuania<br>
-        Low: Australia</p>
-    <h3>Group Two (Anton, Nataša)</h3>
-    <p>High: Albania<br>
-        Low: Lithuania</p>
-    <h3>Group Three (Nikos, Despoina, Scott, Kennet)</h3>
-    <p>High: Italy<br>
-        Low: Moldova</p>
-    <h3>Group Four (Karl, Duncan, Silfa)</h3>
-    <p>High: Ukraine<br>
-        Low: Portugal</p>
+        <h3>Group One (Chris, Frida, Eva, Josefin)</h3>
+        <p>High: Lithuania<br>
+            Low: Australia</p>
+        <h3>Group Two (Anton, Nataša)</h3>
+        <p>High: Albania<br>
+            Low: Lithuania</p>
+        <h3>Group Three (Nikos, Despoina, Scott, Kennet)</h3>
+        <p>High: Italy<br>
+            Low: Moldova</p>
+        <h3>Group Four (Karl, Duncan, Silfa)</h3>
+        <p>High: Ukraine<br>
+            Low: Portugal</p>
     </div>
 
     <p>There's loads more that I could dig into in this data, but I've got to stop somewhere so I'll stop here. If there's anything in particular that you'd like me to look into in the data, drop me an email at <a href="mailto:radio.edit@gmail.com">radio.edit@gmail.com</a>.</p>
