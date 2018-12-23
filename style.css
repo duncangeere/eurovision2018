@@ -67,6 +67,11 @@ li {
     padding: 5px 0px 0px 0px;
 }
 
+
+#groups {
+    padding: 5px 0px 15px 25px;
+}
+
 #outro p {
     margin: 20px 10px 0px 50px;
     font-size: 120%;
@@ -77,6 +82,7 @@ li {
     display: inline-block;
     width: 49%;
 }
+
 
 @media only screen and (max-width: 850px) {
 
