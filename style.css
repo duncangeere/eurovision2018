@@ -68,28 +68,17 @@ li {
 }
 
 #outro p {
-    margin: 0px 10px 0px 50px;
+    margin: 20px 10px 0px 50px;
     font-size: 120%;
 }
 
-#twovids iframe {
-    display: inline-block;
-    width: 47%;
-}
 
 #twocharts img {
     display: inline-block;
-    width: 49%
+    width: 49%;
 }
 
 @media only screen and (max-width: 850px) {
-    #twovids iframe {
-        display: block;
-        margin-left: 0px;
-        margin-right: 0px;
-        width: 100%;
-        height: 350px;
-    }
 
     #twocharts img {
         width: 100%;
