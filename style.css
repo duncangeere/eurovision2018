@@ -17,13 +17,16 @@ body {
 h1 {
     font-family: 'Oswald', sans-serif;
     padding-top: 20px;
+    padding-bottom: 15px;
     font-size: 400%;
+    line-height: 110%;
 }
 
 h2 {
     font-size: 200%;
     font-family: 'Oswald', sans-serif;
     padding-top: 20px;
+    line-height: 120%;
 }
 
 p {
