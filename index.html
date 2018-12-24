@@ -29,7 +29,7 @@
 <body>
     <h1>Eurovision 2018 Data Analysis</h1>
     <p>On 12 May 2018, I gathered a collection of my friends together at my home for a Eurovision watching party. We do something similar every year, but this year we took things a step further.</p>
-    <p>As the contest began, I handed out sheets of paper and pencils to everyone, and asked them to give each country a score out of ten on three scales - song, performance and staging. Everyone was a bit bemused, but did it anyway, and I ended up with a <a href="eurovision.csv">huge dataset of 1092 individual votes</a>. I promised I'd analyse it all, and this is me fulfilling my promise, seven months later.</p>
+    <p>As the contest began, I handed out sheets of paper and pencils to everyone, and asked them to give each country a score out of ten on three scales - song, performance and staging. Everyone was a bit bemused, but did it anyway, and I ended up with a <a href="eurovision.csv">huge dataset of 1092 individual votes</a>. I promised I'd analyse it all, and this is me fulfilling my promise, seven months later. You can find a Jupyter Notebook with all the analysis code <a href="eurovision2018.ipynb">here</a>.</p>
 
     <h2>Who won?</h2>
     <p>The first thing I wanted to do with the data was crown a winner from the votes at the party. As you probably remember, Israel's bonkers entry - <a href="https://www.youtube.com/watch?v=84LBjXaeKk4"><em>Toy</em> by Netta</a> - took the prize at the official event, followed by <a href="https://www.youtube.com/watch?v=vyDTbJ4wenY">Cyprus</a> then <a href="https://www.youtube.com/watch?v=a8Yvzo1puoE">Austria</a>. But what would prove the most popular with the voters in my living room?</p>
@@ -62,7 +62,7 @@
         <iframe src="https://www.youtube.com/embed/ImawXdXIGd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.72, while songs not in English got a mean score of 5.25. Doing an unpaired two-tailed t test with a significance level of 99.9% indicates that this is a statistically significant difference.</p>
+    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.73, while songs not in English got a mean score of 5.26. Doing a Mann-Whitney U-test with a significance level of 0.1 indicates that this is a statistically significant difference.</p>
     <p>If we compare the distributions of the English and non-English scores, you can see that they're both a similar shape, but people are much more inclined to give top scores (7+) to English-language songs than they are to songs in other languages.</p>
 
     <div id="twocharts">
