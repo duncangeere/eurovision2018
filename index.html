@@ -62,7 +62,7 @@
         <iframe src="https://www.youtube.com/embed/ImawXdXIGd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.73, while songs not in English got a mean score of 5.26. Doing a Mann-Whitney U-test with a significance level of 0.1 indicates that this is a statistically significant difference.</p>
+    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.73, while songs not in English got a mean score of 5.26. Doing a Mann-Whitney U-test with a significance level of 0.01 indicates that this is a statistically significant difference.</p>
     <p>If we compare the distributions of the English and non-English scores, you can see that they're both a similar shape, but people are much more inclined to give top scores (7+) to English-language songs than they are to songs in other languages.</p>
 
     <div id="twocharts">
@@ -73,7 +73,7 @@
     <h2>Does the order of performance affect the scores?</h2>
     <p>In Eurovision, the conventional wisdom is that going first is really bad because people will have forgotten you by the time they vote. Is that true in our group? We can find out by taking a look at a scatterplot of the running order and the scores we gave.</p>
     <img src="images/scatterplot.png">
-    <p>What a mess. There's no obvious trend here, but running a simple linear regression gives us a very slight positive correlation of 1.04. That means that a song that goes last might accumulate about 25 more points, across all voters and categories, than one which goes first.</p>
+    <p>There's no obvious trend here, but running a simple linear regression gives us a very slight positive correlation of 1.04. That means that a song that goes last might accumulate about 25 more points, across all voters and categories, than one which goes first.</p>
     <p>This sorta makes sense, as people might not want to give away very high scores right at the start but might be more comfortable doing that later on. But honestly, the variance in the data is so high that I'm not confident calling this a real finding. It might just be the case that it skewed positive because Israel and Finland were near the end. The only conclusion I'd be comfortable with here is that the order of performance didn't really affect the scores from our voters at all.</p>
 
     <h2>Who awarded the most points?</h2>
