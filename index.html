@@ -62,13 +62,18 @@
         <iframe src="https://www.youtube.com/embed/ImawXdXIGd8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.73, while songs not in English got a mean score of 5.26. Doing a Mann-Whitney U-test with a significance level of 0.01 indicates that this is a statistically significant difference.</p>
-    <p>If we compare the distributions of the English and non-English scores, you can see that they're both a similar shape, but people are much more inclined to give top scores (7+) to English-language songs than they are to songs in other languages.</p>
+    <p>Our data shows that, among our voters at least, it is better to sing in English. Songs in English averaged a score of 5.73, while songs not in English got a mean score of 5.26.</p>
+    
+    <p>If we compare the distributions of scores given to the English and non-English songs by individual voters, you can see that they're both a similar shape, but people are much more inclined to give top scores (7+) to English-language songs than they are to songs in other languages.</p>
 
     <div id="twocharts">
         <img src="images/yes_english.png">
         <img src="images/not_english.png">
     </div>
+    
+    <p>It's worth noting here that trying to answer this question took me down a huge rabbit hole. I'll save you most of the details, but getting a reliable answer to this question would require far more songs than there are in a single year of Eurovision. Doing a two-tailed T-test indicates that this is not a statistically significant difference. But that doesn't mean that one doesn't exist - it just means that we can't see it in this data.</p>
+        
+    <p>Maybe I'll crawl back through the history of the competition sometime, and to try and answer this question using the official point totals. In the meantime, all we can say from this data is that our voters gave higher scores on average to songs in English.</p>
 
     <h2>Does the order of performance affect the scores?</h2>
     <p>In Eurovision, the conventional wisdom is that going first is really bad because people will have forgotten you by the time they vote. Is that true in our group? We can find out by taking a look at a scatterplot of the running order and the scores we gave.</p>
