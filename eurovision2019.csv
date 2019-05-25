@@ -1,0 +1,1015 @@
+voter,order,country,title,artist,language,officialpoints,score_cat,score
+ben,1,Malta,Michela,"""Chameleon""",English,107,song,1
+ben,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,5
+ben,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,8
+ben,4,Germany,S!sters,"""Sister""",English,24,song,5
+ben,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,3
+ben,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,7
+ben,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,5
+ben,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,6
+ben,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,7
+ben,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,3
+ben,11,Cyprus,Tamta,"""Replay""",English,109,song,3
+ben,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,2
+ben,13,Greece,Katerine Duska,"""Better Love""",English,74,song,7
+ben,14,Israel,Kobi Marimi,"""Home""",English,35,song,1
+ben,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,8
+ben,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,6
+ben,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,6
+ben,18,Estonia,Victor Crone,"""Storm""",English,76,song,9
+ben,19,Belarus,ZENA,"""Like It""",English,31,song,3
+ben,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,7
+ben,21,France,Bilal Hassani,"""Roi""","French, English",105,song,4
+ben,22,Italy,Mahmood,"""Soldi""",Italian,472,song,6
+ben,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,5
+ben,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,7
+ben,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,5
+ben,26,Spain,Miki,"""La Venda""",Spanish,54,song,7
+ben,1,Malta,Michela,"""Chameleon""",English,107,performance,0
+ben,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,4
+ben,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,7
+ben,4,Germany,S!sters,"""Sister""",English,24,performance,6
+ben,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,5
+ben,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,2
+ben,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,8
+ben,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,6
+ben,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,6
+ben,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,1
+ben,11,Cyprus,Tamta,"""Replay""",English,109,performance,4
+ben,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,3
+ben,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,4
+ben,14,Israel,Kobi Marimi,"""Home""",English,35,performance,3
+ben,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,7
+ben,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,5
+ben,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,8
+ben,18,Estonia,Victor Crone,"""Storm""",English,76,performance,7
+ben,19,Belarus,ZENA,"""Like It""",English,31,performance,2
+ben,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,5
+ben,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,4
+ben,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,3
+ben,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,5
+ben,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,6
+ben,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,4
+ben,26,Spain,Miki,"""La Venda""",Spanish,54,performance,7
+ben,1,Malta,Michela,"""Chameleon""",English,107,staging,6
+ben,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,3
+ben,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,9
+ben,4,Germany,S!sters,"""Sister""",English,24,staging,2
+ben,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,8
+ben,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,6
+ben,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,3
+ben,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,5
+ben,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,3
+ben,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,2
+ben,11,Cyprus,Tamta,"""Replay""",English,109,staging,4
+ben,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,2
+ben,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,6
+ben,14,Israel,Kobi Marimi,"""Home""",English,35,staging,4
+ben,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,5
+ben,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,5
+ben,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,9
+ben,18,Estonia,Victor Crone,"""Storm""",English,76,staging,7
+ben,19,Belarus,ZENA,"""Like It""",English,31,staging,3
+ben,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,7
+ben,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,5
+ben,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,3
+ben,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,5
+ben,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,7
+ben,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+ben,26,Spain,Miki,"""La Venda""",Spanish,54,staging,8
+stefan,1,Malta,Michela,"""Chameleon""",English,107,song,7
+stefan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,6
+stefan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,5
+stefan,4,Germany,S!sters,"""Sister""",English,24,song,5
+stefan,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,4
+stefan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,7
+stefan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,5
+stefan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,7
+stefan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,8
+stefan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,6
+stefan,11,Cyprus,Tamta,"""Replay""",English,109,song,8
+stefan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,7
+stefan,13,Greece,Katerine Duska,"""Better Love""",English,74,song,6
+stefan,14,Israel,Kobi Marimi,"""Home""",English,35,song,3
+stefan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,10
+stefan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,4
+stefan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,6
+stefan,18,Estonia,Victor Crone,"""Storm""",English,76,song,4
+stefan,19,Belarus,ZENA,"""Like It""",English,31,song,5
+stefan,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,8
+stefan,21,France,Bilal Hassani,"""Roi""","French, English",105,song,9
+stefan,22,Italy,Mahmood,"""Soldi""",Italian,472,song,6
+stefan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,4
+stefan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,7
+stefan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,7
+stefan,26,Spain,Miki,"""La Venda""",Spanish,54,song,8
+stefan,1,Malta,Michela,"""Chameleon""",English,107,performance,4
+stefan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,5
+stefan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,6
+stefan,4,Germany,S!sters,"""Sister""",English,24,performance,7
+stefan,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,7
+stefan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,5
+stefan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,4
+stefan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,7
+stefan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,8
+stefan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,3
+stefan,11,Cyprus,Tamta,"""Replay""",English,109,performance,7
+stefan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,6
+stefan,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,7
+stefan,14,Israel,Kobi Marimi,"""Home""",English,35,performance,6
+stefan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,8
+stefan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,5
+stefan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,7
+stefan,18,Estonia,Victor Crone,"""Storm""",English,76,performance,6
+stefan,19,Belarus,ZENA,"""Like It""",English,31,performance,5
+stefan,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,8
+stefan,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,9
+stefan,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,7
+stefan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,6
+stefan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,8
+stefan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,9
+stefan,26,Spain,Miki,"""La Venda""",Spanish,54,performance,9
+stefan,1,Malta,Michela,"""Chameleon""",English,107,staging,6
+stefan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,7
+stefan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,6
+stefan,4,Germany,S!sters,"""Sister""",English,24,staging,1
+stefan,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,7
+stefan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,4
+stefan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,6
+stefan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,3
+stefan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,5
+stefan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,5
+stefan,11,Cyprus,Tamta,"""Replay""",English,109,staging,7
+stefan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,7
+stefan,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,9
+stefan,14,Israel,Kobi Marimi,"""Home""",English,35,staging,5
+stefan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,9
+stefan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,5
+stefan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,9
+stefan,18,Estonia,Victor Crone,"""Storm""",English,76,staging,4
+stefan,19,Belarus,ZENA,"""Like It""",English,31,staging,6
+stefan,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,8
+stefan,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,8
+stefan,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,7
+stefan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,2
+stefan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,7
+stefan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+stefan,26,Spain,Miki,"""La Venda""",Spanish,54,staging,8
+sarah,1,Malta,Michela,"""Chameleon""",English,107,song,4
+sarah,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,7
+sarah,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,5
+sarah,4,Germany,S!sters,"""Sister""",English,24,song,4
+sarah,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,5
+sarah,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,8
+sarah,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,1
+sarah,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,6
+sarah,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,8
+sarah,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,4
+sarah,11,Cyprus,Tamta,"""Replay""",English,109,song,6
+sarah,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,6
+sarah,13,Greece,Katerine Duska,"""Better Love""",English,74,song,5
+sarah,14,Israel,Kobi Marimi,"""Home""",English,35,song,5
+sarah,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,8
+sarah,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,5
+sarah,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,6
+sarah,18,Estonia,Victor Crone,"""Storm""",English,76,song,6
+sarah,19,Belarus,ZENA,"""Like It""",English,31,song,4
+sarah,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,7
+sarah,21,France,Bilal Hassani,"""Roi""","French, English",105,song,7
+sarah,22,Italy,Mahmood,"""Soldi""",Italian,472,song,6
+sarah,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,4
+sarah,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,7
+sarah,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,6
+sarah,26,Spain,Miki,"""La Venda""",Spanish,54,song,8
+sarah,1,Malta,Michela,"""Chameleon""",English,107,performance,7
+sarah,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,8
+sarah,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,7
+sarah,4,Germany,S!sters,"""Sister""",English,24,performance,6
+sarah,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,7
+sarah,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,6
+sarah,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,10
+sarah,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,8
+sarah,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,9
+sarah,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,5
+sarah,11,Cyprus,Tamta,"""Replay""",English,109,performance,7
+sarah,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,6
+sarah,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,5
+sarah,14,Israel,Kobi Marimi,"""Home""",English,35,performance,8
+sarah,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,9
+sarah,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,6
+sarah,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,8
+sarah,18,Estonia,Victor Crone,"""Storm""",English,76,performance,7
+sarah,19,Belarus,ZENA,"""Like It""",English,31,performance,5
+sarah,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,7
+sarah,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,7
+sarah,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,6
+sarah,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,5
+sarah,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,8
+sarah,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,7
+sarah,26,Spain,Miki,"""La Venda""",Spanish,54,performance,9
+sarah,1,Malta,Michela,"""Chameleon""",English,107,staging,7
+sarah,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,5
+sarah,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,8
+sarah,4,Germany,S!sters,"""Sister""",English,24,staging,3
+sarah,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,6
+sarah,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,7
+sarah,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,1
+sarah,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,4
+sarah,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,6
+sarah,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,3
+sarah,11,Cyprus,Tamta,"""Replay""",English,109,staging,6
+sarah,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,5
+sarah,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,9
+sarah,14,Israel,Kobi Marimi,"""Home""",English,35,staging,6
+sarah,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,10
+sarah,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,3
+sarah,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,10
+sarah,18,Estonia,Victor Crone,"""Storm""",English,76,staging,2
+sarah,19,Belarus,ZENA,"""Like It""",English,31,staging,6
+sarah,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,9
+sarah,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,7
+sarah,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,4
+sarah,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,6
+sarah,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,8
+sarah,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+sarah,26,Spain,Miki,"""La Venda""",Spanish,54,staging,9
+cathi,1,Malta,Michela,"""Chameleon""",English,107,song,5
+cathi,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,3
+cathi,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,5
+cathi,4,Germany,S!sters,"""Sister""",English,24,song,4
+cathi,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,4
+cathi,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,7
+cathi,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,1
+cathi,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,5
+cathi,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,2
+cathi,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,2
+cathi,11,Cyprus,Tamta,"""Replay""",English,109,song,4
+cathi,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,0
+cathi,13,Greece,Katerine Duska,"""Better Love""",English,74,song,9
+cathi,14,Israel,Kobi Marimi,"""Home""",English,35,song,4
+cathi,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,8
+cathi,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,1
+cathi,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,5
+cathi,18,Estonia,Victor Crone,"""Storm""",English,76,song,5
+cathi,19,Belarus,ZENA,"""Like It""",English,31,song,0
+cathi,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,10
+cathi,21,France,Bilal Hassani,"""Roi""","French, English",105,song,8
+cathi,22,Italy,Mahmood,"""Soldi""",Italian,472,song,7
+cathi,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,4
+cathi,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,6
+cathi,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,8
+cathi,26,Spain,Miki,"""La Venda""",Spanish,54,song,7
+cathi,1,Malta,Michela,"""Chameleon""",English,107,performance,2
+cathi,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,5
+cathi,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,7
+cathi,4,Germany,S!sters,"""Sister""",English,24,performance,9
+cathi,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,9
+cathi,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,3
+cathi,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,10
+cathi,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,10
+cathi,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,6
+cathi,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,2
+cathi,11,Cyprus,Tamta,"""Replay""",English,109,performance,6
+cathi,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,2
+cathi,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,6
+cathi,14,Israel,Kobi Marimi,"""Home""",English,35,performance,6
+cathi,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,6
+cathi,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,7
+cathi,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,5
+cathi,18,Estonia,Victor Crone,"""Storm""",English,76,performance,10
+cathi,19,Belarus,ZENA,"""Like It""",English,31,performance,3
+cathi,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,9
+cathi,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,8
+cathi,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,10
+cathi,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,8
+cathi,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,6
+cathi,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,6
+cathi,26,Spain,Miki,"""La Venda""",Spanish,54,performance,9
+cathi,1,Malta,Michela,"""Chameleon""",English,107,staging,5
+cathi,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,4
+cathi,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,5
+cathi,4,Germany,S!sters,"""Sister""",English,24,staging,5
+cathi,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,6
+cathi,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,1
+cathi,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,2
+cathi,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,3
+cathi,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,5
+cathi,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,2
+cathi,11,Cyprus,Tamta,"""Replay""",English,109,staging,2
+cathi,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,2
+cathi,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,9
+cathi,14,Israel,Kobi Marimi,"""Home""",English,35,staging,6
+cathi,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,6
+cathi,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,5
+cathi,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,10
+cathi,18,Estonia,Victor Crone,"""Storm""",English,76,staging,0
+cathi,19,Belarus,ZENA,"""Like It""",English,31,staging,7
+cathi,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,10
+cathi,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,10
+cathi,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,6
+cathi,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,4
+cathi,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,6
+cathi,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,6
+cathi,26,Spain,Miki,"""La Venda""",Spanish,54,staging,7
+marlous,1,Malta,Michela,"""Chameleon""",English,107,song,5
+marlous,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,6
+marlous,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,3
+marlous,4,Germany,S!sters,"""Sister""",English,24,song,5
+marlous,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,3
+marlous,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,7
+marlous,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,5
+marlous,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,8
+marlous,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,9
+marlous,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,6
+marlous,11,Cyprus,Tamta,"""Replay""",English,109,song,2
+marlous,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,8
+marlous,13,Greece,Katerine Duska,"""Better Love""",English,74,song,3
+marlous,14,Israel,Kobi Marimi,"""Home""",English,35,song,7
+marlous,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,8
+marlous,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,7
+marlous,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,1
+marlous,18,Estonia,Victor Crone,"""Storm""",English,76,song,6
+marlous,19,Belarus,ZENA,"""Like It""",English,31,song,7
+marlous,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,8
+marlous,21,France,Bilal Hassani,"""Roi""","French, English",105,song,8
+marlous,22,Italy,Mahmood,"""Soldi""",Italian,472,song,5
+marlous,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,6
+marlous,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,3
+marlous,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,7
+marlous,26,Spain,Miki,"""La Venda""",Spanish,54,song,7
+marlous,1,Malta,Michela,"""Chameleon""",English,107,performance,4
+marlous,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,7
+marlous,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,3
+marlous,4,Germany,S!sters,"""Sister""",English,24,performance,9
+marlous,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,8
+marlous,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,7
+marlous,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,6
+marlous,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,9
+marlous,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,10
+marlous,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,5
+marlous,11,Cyprus,Tamta,"""Replay""",English,109,performance,4
+marlous,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,8
+marlous,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,5
+marlous,14,Israel,Kobi Marimi,"""Home""",English,35,performance,7
+marlous,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,9
+marlous,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,8
+marlous,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,2
+marlous,18,Estonia,Victor Crone,"""Storm""",English,76,performance,7
+marlous,19,Belarus,ZENA,"""Like It""",English,31,performance,7
+marlous,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,8
+marlous,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,9
+marlous,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,7
+marlous,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,8
+marlous,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,7
+marlous,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,9
+marlous,26,Spain,Miki,"""La Venda""",Spanish,54,performance,7
+marlous,1,Malta,Michela,"""Chameleon""",English,107,staging,6
+marlous,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,5
+marlous,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,6
+marlous,4,Germany,S!sters,"""Sister""",English,24,staging,5
+marlous,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,8
+marlous,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,8
+marlous,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,7
+marlous,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,5
+marlous,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,9
+marlous,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,6
+marlous,11,Cyprus,Tamta,"""Replay""",English,109,staging,6
+marlous,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,6
+marlous,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,6
+marlous,14,Israel,Kobi Marimi,"""Home""",English,35,staging,7
+marlous,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,8
+marlous,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,6
+marlous,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,8
+marlous,18,Estonia,Victor Crone,"""Storm""",English,76,staging,4
+marlous,19,Belarus,ZENA,"""Like It""",English,31,staging,7
+marlous,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,10
+marlous,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,9
+marlous,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,7
+marlous,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,5
+marlous,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,7
+marlous,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,9
+marlous,26,Spain,Miki,"""La Venda""",Spanish,54,staging,7
+daniel,1,Malta,Michela,"""Chameleon""",English,107,song,4
+daniel,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,3
+daniel,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,6
+daniel,4,Germany,S!sters,"""Sister""",English,24,song,4
+daniel,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,5
+daniel,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,6
+daniel,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,3
+daniel,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,6
+daniel,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,7
+daniel,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,4
+daniel,11,Cyprus,Tamta,"""Replay""",English,109,song,4
+daniel,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,7
+daniel,13,Greece,Katerine Duska,"""Better Love""",English,74,song,5
+daniel,14,Israel,Kobi Marimi,"""Home""",English,35,song,5
+daniel,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,7
+daniel,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,6
+daniel,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,7
+daniel,18,Estonia,Victor Crone,"""Storm""",English,76,song,4
+daniel,19,Belarus,ZENA,"""Like It""",English,31,song,2
+daniel,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,6
+daniel,21,France,Bilal Hassani,"""Roi""","French, English",105,song,3
+daniel,22,Italy,Mahmood,"""Soldi""",Italian,472,song,6
+daniel,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,5
+daniel,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,4
+daniel,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,7
+daniel,26,Spain,Miki,"""La Venda""",Spanish,54,song,6
+daniel,1,Malta,Michela,"""Chameleon""",English,107,performance,5
+daniel,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,3
+daniel,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,4
+daniel,4,Germany,S!sters,"""Sister""",English,24,performance,9
+daniel,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,4
+daniel,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,6
+daniel,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,4
+daniel,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,7
+daniel,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,7
+daniel,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,3
+daniel,11,Cyprus,Tamta,"""Replay""",English,109,performance,5
+daniel,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,6
+daniel,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,6
+daniel,14,Israel,Kobi Marimi,"""Home""",English,35,performance,4
+daniel,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,6
+daniel,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,5
+daniel,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,8
+daniel,18,Estonia,Victor Crone,"""Storm""",English,76,performance,5
+daniel,19,Belarus,ZENA,"""Like It""",English,31,performance,4
+daniel,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,5
+daniel,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,3
+daniel,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,5
+daniel,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,6
+daniel,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,4
+daniel,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,7
+daniel,26,Spain,Miki,"""La Venda""",Spanish,54,performance,7
+daniel,1,Malta,Michela,"""Chameleon""",English,107,staging,5
+daniel,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,3
+daniel,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,4
+daniel,4,Germany,S!sters,"""Sister""",English,24,staging,4
+daniel,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,4
+daniel,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,6
+daniel,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,4
+daniel,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,5
+daniel,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,7
+daniel,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,3
+daniel,11,Cyprus,Tamta,"""Replay""",English,109,staging,2
+daniel,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,6
+daniel,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,7
+daniel,14,Israel,Kobi Marimi,"""Home""",English,35,staging,4
+daniel,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,6
+daniel,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,5
+daniel,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,10
+daniel,18,Estonia,Victor Crone,"""Storm""",English,76,staging,3
+daniel,19,Belarus,ZENA,"""Like It""",English,31,staging,3
+daniel,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,5
+daniel,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,3
+daniel,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,5
+daniel,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,4
+daniel,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,4
+daniel,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,9
+daniel,26,Spain,Miki,"""La Venda""",Spanish,54,staging,6
+josefin,1,Malta,Michela,"""Chameleon""",English,107,song,4
+josefin,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,2
+josefin,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,4
+josefin,4,Germany,S!sters,"""Sister""",English,24,song,6
+josefin,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,2
+josefin,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,6
+josefin,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,2
+josefin,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,3
+josefin,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,7
+josefin,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,7
+josefin,11,Cyprus,Tamta,"""Replay""",English,109,song,2
+josefin,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,5
+josefin,13,Greece,Katerine Duska,"""Better Love""",English,74,song,6
+josefin,14,Israel,Kobi Marimi,"""Home""",English,35,song,6
+josefin,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,5
+josefin,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,4
+josefin,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,6
+josefin,18,Estonia,Victor Crone,"""Storm""",English,76,song,6
+josefin,19,Belarus,ZENA,"""Like It""",English,31,song,2
+josefin,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,7
+josefin,21,France,Bilal Hassani,"""Roi""","French, English",105,song,4
+josefin,22,Italy,Mahmood,"""Soldi""",Italian,472,song,6
+josefin,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,2
+josefin,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,3
+josefin,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,6
+josefin,26,Spain,Miki,"""La Venda""",Spanish,54,song,5
+josefin,1,Malta,Michela,"""Chameleon""",English,107,performance,4
+josefin,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,3
+josefin,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,4
+josefin,4,Germany,S!sters,"""Sister""",English,24,performance,3
+josefin,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,2
+josefin,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,6
+josefin,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,3
+josefin,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,6
+josefin,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,6
+josefin,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,6
+josefin,11,Cyprus,Tamta,"""Replay""",English,109,performance,2
+josefin,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,4
+josefin,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,7
+josefin,14,Israel,Kobi Marimi,"""Home""",English,35,performance,6
+josefin,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,5
+josefin,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,5
+josefin,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,6
+josefin,18,Estonia,Victor Crone,"""Storm""",English,76,performance,3
+josefin,19,Belarus,ZENA,"""Like It""",English,31,performance,4
+josefin,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,7
+josefin,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,7
+josefin,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,5
+josefin,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,3
+josefin,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,3
+josefin,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,7
+josefin,26,Spain,Miki,"""La Venda""",Spanish,54,performance,5
+josefin,1,Malta,Michela,"""Chameleon""",English,107,staging,6
+josefin,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,3
+josefin,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,7
+josefin,4,Germany,S!sters,"""Sister""",English,24,staging,2
+josefin,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,1
+josefin,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,7
+josefin,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,2
+josefin,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,4
+josefin,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,7
+josefin,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,6
+josefin,11,Cyprus,Tamta,"""Replay""",English,109,staging,1
+josefin,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,4
+josefin,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,7
+josefin,14,Israel,Kobi Marimi,"""Home""",English,35,staging,3
+josefin,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,3
+josefin,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,2
+josefin,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,7
+josefin,18,Estonia,Victor Crone,"""Storm""",English,76,staging,2
+josefin,19,Belarus,ZENA,"""Like It""",English,31,staging,3
+josefin,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,7
+josefin,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,7
+josefin,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,4
+josefin,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,3
+josefin,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,2
+josefin,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,9
+josefin,26,Spain,Miki,"""La Venda""",Spanish,54,staging,7
+silfa,1,Malta,Michela,"""Chameleon""",English,107,song,8
+silfa,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,2
+silfa,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,7
+silfa,4,Germany,S!sters,"""Sister""",English,24,song,7
+silfa,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,7
+silfa,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,5
+silfa,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,10
+silfa,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,6
+silfa,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,8
+silfa,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,7
+silfa,11,Cyprus,Tamta,"""Replay""",English,109,song,5
+silfa,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,5
+silfa,13,Greece,Katerine Duska,"""Better Love""",English,74,song,8
+silfa,14,Israel,Kobi Marimi,"""Home""",English,35,song,5
+silfa,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,10
+silfa,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,6
+silfa,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,7
+silfa,18,Estonia,Victor Crone,"""Storm""",English,76,song,6
+silfa,19,Belarus,ZENA,"""Like It""",English,31,song,7
+silfa,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,8
+silfa,21,France,Bilal Hassani,"""Roi""","French, English",105,song,3
+silfa,22,Italy,Mahmood,"""Soldi""",Italian,472,song,4
+silfa,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,6
+silfa,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,7
+silfa,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,7
+silfa,26,Spain,Miki,"""La Venda""",Spanish,54,song,6
+silfa,1,Malta,Michela,"""Chameleon""",English,107,performance,8
+silfa,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,5
+silfa,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,7
+silfa,4,Germany,S!sters,"""Sister""",English,24,performance,5
+silfa,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,6
+silfa,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,4
+silfa,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,8
+silfa,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,4
+silfa,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,7
+silfa,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,3
+silfa,11,Cyprus,Tamta,"""Replay""",English,109,performance,8
+silfa,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,2
+silfa,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,9
+silfa,14,Israel,Kobi Marimi,"""Home""",English,35,performance,5
+silfa,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,9
+silfa,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,6
+silfa,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,8
+silfa,18,Estonia,Victor Crone,"""Storm""",English,76,performance,3
+silfa,19,Belarus,ZENA,"""Like It""",English,31,performance,7
+silfa,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,6
+silfa,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,4
+silfa,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,3
+silfa,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,2
+silfa,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,8
+silfa,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,8
+silfa,26,Spain,Miki,"""La Venda""",Spanish,54,performance,7
+silfa,1,Malta,Michela,"""Chameleon""",English,107,staging,7
+silfa,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,6
+silfa,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,8
+silfa,4,Germany,S!sters,"""Sister""",English,24,staging,4
+silfa,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,6
+silfa,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,7
+silfa,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,8
+silfa,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,3
+silfa,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,7
+silfa,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,6
+silfa,11,Cyprus,Tamta,"""Replay""",English,109,staging,6
+silfa,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,2
+silfa,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,9
+silfa,14,Israel,Kobi Marimi,"""Home""",English,35,staging,2
+silfa,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,8
+silfa,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,4
+silfa,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,10
+silfa,18,Estonia,Victor Crone,"""Storm""",English,76,staging,6
+silfa,19,Belarus,ZENA,"""Like It""",English,31,staging,6
+silfa,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,8
+silfa,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,5
+silfa,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,3
+silfa,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,3
+silfa,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,7
+silfa,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+silfa,26,Spain,Miki,"""La Venda""",Spanish,54,staging,5
+chris,1,Malta,Michela,"""Chameleon""",English,107,song,5
+chris,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,6
+chris,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,3
+chris,4,Germany,S!sters,"""Sister""",English,24,song,2
+chris,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,1
+chris,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,5
+chris,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,4
+chris,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,2
+chris,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,9
+chris,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,1
+chris,11,Cyprus,Tamta,"""Replay""",English,109,song,4
+chris,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,8
+chris,13,Greece,Katerine Duska,"""Better Love""",English,74,song,5
+chris,14,Israel,Kobi Marimi,"""Home""",English,35,song,1
+chris,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,8
+chris,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,7
+chris,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,2
+chris,18,Estonia,Victor Crone,"""Storm""",English,76,song,7
+chris,19,Belarus,ZENA,"""Like It""",English,31,song,6
+chris,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,6
+chris,21,France,Bilal Hassani,"""Roi""","French, English",105,song,6
+chris,22,Italy,Mahmood,"""Soldi""",Italian,472,song,3
+chris,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,7
+chris,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,5
+chris,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,4
+chris,26,Spain,Miki,"""La Venda""",Spanish,54,song,5
+chris,1,Malta,Michela,"""Chameleon""",English,107,performance,5
+chris,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,7
+chris,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,6
+chris,4,Germany,S!sters,"""Sister""",English,24,performance,8
+chris,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,8
+chris,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,3
+chris,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,2
+chris,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,8
+chris,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,7
+chris,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,6
+chris,11,Cyprus,Tamta,"""Replay""",English,109,performance,5
+chris,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,9
+chris,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,2
+chris,14,Israel,Kobi Marimi,"""Home""",English,35,performance,7
+chris,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,9
+chris,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,8
+chris,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,5
+chris,18,Estonia,Victor Crone,"""Storm""",English,76,performance,6
+chris,19,Belarus,ZENA,"""Like It""",English,31,performance,7
+chris,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,3
+chris,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,6
+chris,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,6
+chris,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,8
+chris,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,8
+chris,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,7
+chris,26,Spain,Miki,"""La Venda""",Spanish,54,performance,9
+chris,1,Malta,Michela,"""Chameleon""",English,107,staging,5
+chris,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,2
+chris,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,6
+chris,4,Germany,S!sters,"""Sister""",English,24,staging,3
+chris,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,4
+chris,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,6
+chris,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,10
+chris,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,1
+chris,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,3
+chris,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,2
+chris,11,Cyprus,Tamta,"""Replay""",English,109,staging,4
+chris,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,4
+chris,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,9
+chris,14,Israel,Kobi Marimi,"""Home""",English,35,staging,6
+chris,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,6
+chris,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,4
+chris,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,7
+chris,18,Estonia,Victor Crone,"""Storm""",English,76,staging,8
+chris,19,Belarus,ZENA,"""Like It""",English,31,staging,9
+chris,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,9
+chris,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,7
+chris,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,6
+chris,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,7
+chris,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,8
+chris,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+chris,26,Spain,Miki,"""La Venda""",Spanish,54,staging,6
+natasa,1,Malta,Michela,"""Chameleon""",English,107,song,7
+natasa,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,3
+natasa,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,4
+natasa,4,Germany,S!sters,"""Sister""",English,24,song,5
+natasa,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,5
+natasa,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,7
+natasa,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,2
+natasa,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,9
+natasa,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,10
+natasa,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,3
+natasa,11,Cyprus,Tamta,"""Replay""",English,109,song,5
+natasa,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,4
+natasa,13,Greece,Katerine Duska,"""Better Love""",English,74,song,4
+natasa,14,Israel,Kobi Marimi,"""Home""",English,35,song,2
+natasa,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,4
+natasa,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,8
+natasa,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,6
+natasa,18,Estonia,Victor Crone,"""Storm""",English,76,song,4
+natasa,19,Belarus,ZENA,"""Like It""",English,31,song,3
+natasa,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,4
+natasa,21,France,Bilal Hassani,"""Roi""","French, English",105,song,5
+natasa,22,Italy,Mahmood,"""Soldi""",Italian,472,song,7
+natasa,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,5
+natasa,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,2
+natasa,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,3
+natasa,26,Spain,Miki,"""La Venda""",Spanish,54,song,2
+natasa,1,Malta,Michela,"""Chameleon""",English,107,performance,8
+natasa,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,6
+natasa,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,5
+natasa,4,Germany,S!sters,"""Sister""",English,24,performance,8
+natasa,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,8
+natasa,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,7
+natasa,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,3
+natasa,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,9
+natasa,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,10
+natasa,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,3
+natasa,11,Cyprus,Tamta,"""Replay""",English,109,performance,7
+natasa,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,7
+natasa,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,3
+natasa,14,Israel,Kobi Marimi,"""Home""",English,35,performance,5
+natasa,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,4
+natasa,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,9
+natasa,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,7
+natasa,18,Estonia,Victor Crone,"""Storm""",English,76,performance,5
+natasa,19,Belarus,ZENA,"""Like It""",English,31,performance,7
+natasa,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,6
+natasa,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,8
+natasa,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,4
+natasa,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,8
+natasa,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,4
+natasa,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,9
+natasa,26,Spain,Miki,"""La Venda""",Spanish,54,performance,4
+natasa,1,Malta,Michela,"""Chameleon""",English,107,staging,6
+natasa,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,2
+natasa,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,6
+natasa,4,Germany,S!sters,"""Sister""",English,24,staging,3
+natasa,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,1
+natasa,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,8
+natasa,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,3
+natasa,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,6
+natasa,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,8
+natasa,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,6
+natasa,11,Cyprus,Tamta,"""Replay""",English,109,staging,5
+natasa,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,2
+natasa,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,3
+natasa,14,Israel,Kobi Marimi,"""Home""",English,35,staging,4
+natasa,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,4
+natasa,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,6
+natasa,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,9
+natasa,18,Estonia,Victor Crone,"""Storm""",English,76,staging,2
+natasa,19,Belarus,ZENA,"""Like It""",English,31,staging,6
+natasa,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,4
+natasa,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,3
+natasa,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,5
+natasa,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,3
+natasa,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,2
+natasa,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,2
+natasa,26,Spain,Miki,"""La Venda""",Spanish,54,staging,6
+johan,1,Malta,Michela,"""Chameleon""",English,107,song,5
+johan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,2
+johan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,2
+johan,4,Germany,S!sters,"""Sister""",English,24,song,1
+johan,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,2
+johan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,1
+johan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,7
+johan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,5
+johan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,9
+johan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,1
+johan,11,Cyprus,Tamta,"""Replay""",English,109,song,2
+johan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,7
+johan,13,Greece,Katerine Duska,"""Better Love""",English,74,song,8
+johan,14,Israel,Kobi Marimi,"""Home""",English,35,song,0
+johan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,7
+johan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,2
+johan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,2
+johan,18,Estonia,Victor Crone,"""Storm""",English,76,song,0
+johan,19,Belarus,ZENA,"""Like It""",English,31,song,4
+johan,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,7
+johan,21,France,Bilal Hassani,"""Roi""","French, English",105,song,5
+johan,22,Italy,Mahmood,"""Soldi""",Italian,472,song,3
+johan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,3
+johan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,6
+johan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,9
+johan,26,Spain,Miki,"""La Venda""",Spanish,54,song,3
+johan,1,Malta,Michela,"""Chameleon""",English,107,performance,7
+johan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,4
+johan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,1
+johan,4,Germany,S!sters,"""Sister""",English,24,performance,1
+johan,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,5
+johan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,4
+johan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,7
+johan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,8
+johan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,9
+johan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,2
+johan,11,Cyprus,Tamta,"""Replay""",English,109,performance,5
+johan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,7
+johan,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,8
+johan,14,Israel,Kobi Marimi,"""Home""",English,35,performance,4
+johan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,8
+johan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,5
+johan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,6
+johan,18,Estonia,Victor Crone,"""Storm""",English,76,performance,4
+johan,19,Belarus,ZENA,"""Like It""",English,31,performance,7
+johan,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,7
+johan,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,7
+johan,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,5
+johan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,5
+johan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,6
+johan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,8
+johan,26,Spain,Miki,"""La Venda""",Spanish,54,performance,8
+johan,1,Malta,Michela,"""Chameleon""",English,107,staging,5
+johan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,6
+johan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,3
+johan,4,Germany,S!sters,"""Sister""",English,24,staging,3
+johan,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,6
+johan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,0
+johan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,6
+johan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,5
+johan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,7
+johan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,1
+johan,11,Cyprus,Tamta,"""Replay""",English,109,staging,2
+johan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,0
+johan,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,10
+johan,14,Israel,Kobi Marimi,"""Home""",English,35,staging,1
+johan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,8
+johan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,5
+johan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,7
+johan,18,Estonia,Victor Crone,"""Storm""",English,76,staging,1
+johan,19,Belarus,ZENA,"""Like It""",English,31,staging,6
+johan,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,9
+johan,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,7
+johan,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,5
+johan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,6
+johan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,3
+johan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+johan,26,Spain,Miki,"""La Venda""",Spanish,54,staging,0
+martin,1,Malta,Michela,"""Chameleon""",English,107,song,3
+martin,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,3
+martin,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,6
+martin,4,Germany,S!sters,"""Sister""",English,24,song,4
+martin,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,2
+martin,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,4
+martin,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,3
+martin,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,6
+martin,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,9
+martin,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,3
+martin,11,Cyprus,Tamta,"""Replay""",English,109,song,2
+martin,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,7
+martin,13,Greece,Katerine Duska,"""Better Love""",English,74,song,8
+martin,14,Israel,Kobi Marimi,"""Home""",English,35,song,3
+martin,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,6
+martin,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,4
+martin,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,5
+martin,18,Estonia,Victor Crone,"""Storm""",English,76,song,3
+martin,19,Belarus,ZENA,"""Like It""",English,31,song,4
+martin,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,8
+martin,21,France,Bilal Hassani,"""Roi""","French, English",105,song,7
+martin,22,Italy,Mahmood,"""Soldi""",Italian,472,song,6
+martin,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,3
+martin,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,5
+martin,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,10
+martin,26,Spain,Miki,"""La Venda""",Spanish,54,song,5
+martin,1,Malta,Michela,"""Chameleon""",English,107,performance,5
+martin,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,5
+martin,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,6
+martin,4,Germany,S!sters,"""Sister""",English,24,performance,5
+martin,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,3
+martin,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,8
+martin,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,4
+martin,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,8
+martin,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,9
+martin,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,4
+martin,11,Cyprus,Tamta,"""Replay""",English,109,performance,2
+martin,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,8
+martin,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,6
+martin,14,Israel,Kobi Marimi,"""Home""",English,35,performance,4
+martin,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,6
+martin,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,5
+martin,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,6
+martin,18,Estonia,Victor Crone,"""Storm""",English,76,performance,4
+martin,19,Belarus,ZENA,"""Like It""",English,31,performance,6
+martin,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,8
+martin,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,7
+martin,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,6
+martin,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,8
+martin,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,5
+martin,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,10
+martin,26,Spain,Miki,"""La Venda""",Spanish,54,performance,5
+martin,1,Malta,Michela,"""Chameleon""",English,107,staging,2
+martin,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,5
+martin,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,5
+martin,4,Germany,S!sters,"""Sister""",English,24,staging,3
+martin,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,3
+martin,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,3
+martin,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,3
+martin,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,3
+martin,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,7
+martin,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,3
+martin,11,Cyprus,Tamta,"""Replay""",English,109,staging,2
+martin,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,3
+martin,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,6
+martin,14,Israel,Kobi Marimi,"""Home""",English,35,staging,3
+martin,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,4
+martin,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,3
+martin,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,9
+martin,18,Estonia,Victor Crone,"""Storm""",English,76,staging,2
+martin,19,Belarus,ZENA,"""Like It""",English,31,staging,3
+martin,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,8
+martin,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,7
+martin,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,3
+martin,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,3
+martin,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,4
+martin,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+martin,26,Spain,Miki,"""La Venda""",Spanish,54,staging,6
+duncan,1,Malta,Michela,"""Chameleon""",English,107,song,4
+duncan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,song,2
+duncan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,song,9
+duncan,4,Germany,S!sters,"""Sister""",English,24,song,7
+duncan,5,Russia,Sergey Lazarev,"""Scream""",English,370,song,6
+duncan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,song,2
+duncan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,song,9
+duncan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,song,4
+duncan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,song,8
+duncan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,song,8
+duncan,11,Cyprus,Tamta,"""Replay""",English,109,song,8
+duncan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,song,4
+duncan,13,Greece,Katerine Duska,"""Better Love""",English,74,song,6
+duncan,14,Israel,Kobi Marimi,"""Home""",English,35,song,7
+duncan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,song,10
+duncan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,song,5
+duncan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,song,7
+duncan,18,Estonia,Victor Crone,"""Storm""",English,76,song,7
+duncan,19,Belarus,ZENA,"""Like It""",English,31,song,7
+duncan,20,Azerbaijan,Chingiz,"""Truth""",English,302,song,8
+duncan,21,France,Bilal Hassani,"""Roi""","French, English",105,song,7
+duncan,22,Italy,Mahmood,"""Soldi""",Italian,472,song,3
+duncan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,song,3
+duncan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,song,9
+duncan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,song,6
+duncan,26,Spain,Miki,"""La Venda""",Spanish,54,song,8
+duncan,1,Malta,Michela,"""Chameleon""",English,107,performance,8
+duncan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,performance,6
+duncan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,performance,6
+duncan,4,Germany,S!sters,"""Sister""",English,24,performance,5
+duncan,5,Russia,Sergey Lazarev,"""Scream""",English,370,performance,7
+duncan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,performance,4
+duncan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,performance,8
+duncan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,performance,6
+duncan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,performance,9
+duncan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,performance,2
+duncan,11,Cyprus,Tamta,"""Replay""",English,109,performance,7
+duncan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,performance,2
+duncan,13,Greece,Katerine Duska,"""Better Love""",English,74,performance,7
+duncan,14,Israel,Kobi Marimi,"""Home""",English,35,performance,8
+duncan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,performance,9
+duncan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,performance,6
+duncan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,performance,7
+duncan,18,Estonia,Victor Crone,"""Storm""",English,76,performance,7
+duncan,19,Belarus,ZENA,"""Like It""",English,31,performance,8
+duncan,20,Azerbaijan,Chingiz,"""Truth""",English,302,performance,8
+duncan,21,France,Bilal Hassani,"""Roi""","French, English",105,performance,8
+duncan,22,Italy,Mahmood,"""Soldi""",Italian,472,performance,2
+duncan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,performance,5
+duncan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,performance,9
+duncan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,performance,8
+duncan,26,Spain,Miki,"""La Venda""",Spanish,54,performance,8
+duncan,1,Malta,Michela,"""Chameleon""",English,107,staging,6
+duncan,2,Albania,Jonida Maliqi,"""Ktheju tokës""",Albanian,90,staging,3
+duncan,3,Czech Republic,Lake Malawi,"""Friend of a Friend""",English,157,staging,7
+duncan,4,Germany,S!sters,"""Sister""",English,24,staging,2
+duncan,5,Russia,Sergey Lazarev,"""Scream""",English,370,staging,9
+duncan,6,Denmark,Leonora,"""Love Is Forever""","English, French",120,staging,6
+duncan,7,San Marino,Serhat,"""Say Na Na Na""",English,77,staging,8
+duncan,8,North Macedonia,Tamara Todevska,"""Proud""",English,305,staging,3
+duncan,9,Sweden,John Lundvik,"""Too Late for Love""",English,334,staging,7
+duncan,10,Slovenia,Zala Kralj & Gašper Šantl,"""Sebi""",Slovene,105,staging,1
+duncan,11,Cyprus,Tamta,"""Replay""",English,109,staging,6
+duncan,12,Netherlands,Duncan Laurence,"""Arcade""",English,498,staging,1
+duncan,13,Greece,Katerine Duska,"""Better Love""",English,74,staging,7
+duncan,14,Israel,Kobi Marimi,"""Home""",English,35,staging,3
+duncan,15,Norway,KEiiNO,"""Spirit in the Sky""",English,331,staging,7
+duncan,16,United Kingdom,Michael Rice,"""Bigger than Us""",English,11,staging,2
+duncan,17,Iceland,Hatari,"""Hatrið mun sigra""",Icelandic,232,staging,9
+duncan,18,Estonia,Victor Crone,"""Storm""",English,76,staging,7
+duncan,19,Belarus,ZENA,"""Like It""",English,31,staging,8
+duncan,20,Azerbaijan,Chingiz,"""Truth""",English,302,staging,9
+duncan,21,France,Bilal Hassani,"""Roi""","French, English",105,staging,8
+duncan,22,Italy,Mahmood,"""Soldi""",Italian,472,staging,3
+duncan,23,Serbia,Nevena Božović,"""Kruna"" (Круна)",Serbian,89,staging,2
+duncan,24,Switzerland,Luca Hänni,"""She Got Me""",English,364,staging,8
+duncan,25,Australia,Kate Miller-Heidke,"""Zero Gravity""",English,284,staging,10
+duncan,26,Spain,Miki,"""La Venda""",Spanish,54,staging,9
