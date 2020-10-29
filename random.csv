@@ -1,0 +1,1093 @@
+voter,order,country,title,artist,language,officialpoints,score_cat,score
+steve,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,2
+steve,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,4
+steve,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,5
+steve,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,10
+steve,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,0
+steve,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,6
+steve,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,2
+steve,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,3
+steve,9,United Kingdom,"""Storm""",SuRie,English,48,song,10
+steve,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,5
+steve,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,3
+steve,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,9
+steve,13,France,"""Mercy""",Madame Monsieur,French,173,song,3
+steve,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,2
+steve,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,5
+steve,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,8
+steve,17,Finland,"""Monsters""",Saara Aalto,English,46,song,4
+steve,18,Bulgaria,"""Bones""",Equinox,English,166,song,1
+steve,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,7
+steve,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,10
+steve,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,8
+steve,22,Israel,"""Toy""",Netta,English,529,song,8
+steve,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,7
+steve,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,10
+steve,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,6
+steve,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,1
+steve,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,4
+steve,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,4
+steve,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,2
+steve,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,4
+steve,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,7
+steve,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,5
+steve,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,2
+steve,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,3
+steve,9,United Kingdom,"""Storm""",SuRie,English,48,performance,9
+steve,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,2
+steve,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,2
+steve,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,2
+steve,13,France,"""Mercy""",Madame Monsieur,French,173,performance,6
+steve,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,9
+steve,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,0
+steve,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,4
+steve,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,8
+steve,18,Bulgaria,"""Bones""",Equinox,English,166,performance,4
+steve,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,6
+steve,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,7
+steve,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,9
+steve,22,Israel,"""Toy""",Netta,English,529,performance,2
+steve,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,2
+steve,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,0
+steve,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,6
+steve,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,10
+steve,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,8
+steve,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,7
+steve,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,8
+steve,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,4
+steve,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,5
+steve,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,6
+steve,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,6
+steve,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,7
+steve,9,United Kingdom,"""Storm""",SuRie,English,48,staging,6
+steve,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,9
+steve,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,2
+steve,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,7
+steve,13,France,"""Mercy""",Madame Monsieur,French,173,staging,8
+steve,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,2
+steve,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,1
+steve,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,6
+steve,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,4
+steve,18,Bulgaria,"""Bones""",Equinox,English,166,staging,9
+steve,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,3
+steve,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,9
+steve,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,3
+steve,22,Israel,"""Toy""",Netta,English,529,staging,9
+steve,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,7
+steve,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,9
+steve,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,7
+steve,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,8
+florence,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,10
+florence,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,5
+florence,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,2
+florence,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,4
+florence,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,2
+florence,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,7
+florence,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,3
+florence,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,2
+florence,9,United Kingdom,"""Storm""",SuRie,English,48,song,0
+florence,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,9
+florence,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,9
+florence,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,4
+florence,13,France,"""Mercy""",Madame Monsieur,French,173,song,4
+florence,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,5
+florence,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,2
+florence,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,1
+florence,17,Finland,"""Monsters""",Saara Aalto,English,46,song,1
+florence,18,Bulgaria,"""Bones""",Equinox,English,166,song,3
+florence,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,1
+florence,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,3
+florence,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,4
+florence,22,Israel,"""Toy""",Netta,English,529,song,6
+florence,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,7
+florence,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,5
+florence,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,6
+florence,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,0
+florence,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,1
+florence,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,2
+florence,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,2
+florence,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,1
+florence,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,8
+florence,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,3
+florence,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,2
+florence,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,0
+florence,9,United Kingdom,"""Storm""",SuRie,English,48,performance,6
+florence,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,5
+florence,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,1
+florence,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,6
+florence,13,France,"""Mercy""",Madame Monsieur,French,173,performance,7
+florence,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,1
+florence,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,8
+florence,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,8
+florence,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,1
+florence,18,Bulgaria,"""Bones""",Equinox,English,166,performance,1
+florence,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,5
+florence,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,1
+florence,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,9
+florence,22,Israel,"""Toy""",Netta,English,529,performance,1
+florence,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,7
+florence,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,3
+florence,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,4
+florence,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,3
+florence,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,5
+florence,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,0
+florence,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,9
+florence,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,7
+florence,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,8
+florence,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,0
+florence,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,10
+florence,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,2
+florence,9,United Kingdom,"""Storm""",SuRie,English,48,staging,5
+florence,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,6
+florence,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,1
+florence,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,4
+florence,13,France,"""Mercy""",Madame Monsieur,French,173,staging,5
+florence,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,2
+florence,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,0
+florence,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,6
+florence,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,3
+florence,18,Bulgaria,"""Bones""",Equinox,English,166,staging,9
+florence,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,8
+florence,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,9
+florence,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,4
+florence,22,Israel,"""Toy""",Netta,English,529,staging,8
+florence,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,6
+florence,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,3
+florence,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,7
+florence,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,10
+hector,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,3
+hector,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,9
+hector,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,6
+hector,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,1
+hector,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,9
+hector,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,7
+hector,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,6
+hector,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,6
+hector,9,United Kingdom,"""Storm""",SuRie,English,48,song,2
+hector,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,1
+hector,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,9
+hector,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,5
+hector,13,France,"""Mercy""",Madame Monsieur,French,173,song,7
+hector,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,10
+hector,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,8
+hector,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,8
+hector,17,Finland,"""Monsters""",Saara Aalto,English,46,song,3
+hector,18,Bulgaria,"""Bones""",Equinox,English,166,song,4
+hector,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,9
+hector,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,8
+hector,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,0
+hector,22,Israel,"""Toy""",Netta,English,529,song,7
+hector,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,10
+hector,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,9
+hector,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,6
+hector,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,8
+hector,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,6
+hector,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,9
+hector,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,8
+hector,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,2
+hector,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,10
+hector,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,0
+hector,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,9
+hector,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,7
+hector,9,United Kingdom,"""Storm""",SuRie,English,48,performance,6
+hector,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,8
+hector,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,1
+hector,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,6
+hector,13,France,"""Mercy""",Madame Monsieur,French,173,performance,8
+hector,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,10
+hector,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,5
+hector,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,9
+hector,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,2
+hector,18,Bulgaria,"""Bones""",Equinox,English,166,performance,7
+hector,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,6
+hector,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,2
+hector,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,1
+hector,22,Israel,"""Toy""",Netta,English,529,performance,8
+hector,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,4
+hector,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,9
+hector,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,2
+hector,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,6
+hector,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,3
+hector,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,9
+hector,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,6
+hector,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,9
+hector,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,8
+hector,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,8
+hector,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,4
+hector,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,3
+hector,9,United Kingdom,"""Storm""",SuRie,English,48,staging,8
+hector,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,9
+hector,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,3
+hector,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,2
+hector,13,France,"""Mercy""",Madame Monsieur,French,173,staging,4
+hector,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,10
+hector,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,2
+hector,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,4
+hector,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,10
+hector,18,Bulgaria,"""Bones""",Equinox,English,166,staging,1
+hector,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,6
+hector,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,8
+hector,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,8
+hector,22,Israel,"""Toy""",Netta,English,529,staging,2
+hector,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,3
+hector,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,10
+hector,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,2
+hector,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,5
+charlie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,3
+charlie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,1
+charlie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,4
+charlie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,2
+charlie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,5
+charlie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,1
+charlie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,3
+charlie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,8
+charlie,9,United Kingdom,"""Storm""",SuRie,English,48,song,6
+charlie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,5
+charlie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,1
+charlie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,4
+charlie,13,France,"""Mercy""",Madame Monsieur,French,173,song,9
+charlie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,0
+charlie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,2
+charlie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,6
+charlie,17,Finland,"""Monsters""",Saara Aalto,English,46,song,2
+charlie,18,Bulgaria,"""Bones""",Equinox,English,166,song,9
+charlie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,10
+charlie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,9
+charlie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,1
+charlie,22,Israel,"""Toy""",Netta,English,529,song,1
+charlie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,10
+charlie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,4
+charlie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,8
+charlie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,5
+charlie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,8
+charlie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,1
+charlie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,0
+charlie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,3
+charlie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,5
+charlie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,6
+charlie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,7
+charlie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,5
+charlie,9,United Kingdom,"""Storm""",SuRie,English,48,performance,7
+charlie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,9
+charlie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,2
+charlie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,6
+charlie,13,France,"""Mercy""",Madame Monsieur,French,173,performance,8
+charlie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,8
+charlie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,8
+charlie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,3
+charlie,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,1
+charlie,18,Bulgaria,"""Bones""",Equinox,English,166,performance,6
+charlie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,0
+charlie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,5
+charlie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,3
+charlie,22,Israel,"""Toy""",Netta,English,529,performance,1
+charlie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,0
+charlie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,3
+charlie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,5
+charlie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,0
+charlie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,2
+charlie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,10
+charlie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,9
+charlie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,4
+charlie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,9
+charlie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,8
+charlie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,8
+charlie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,6
+charlie,9,United Kingdom,"""Storm""",SuRie,English,48,staging,1
+charlie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,8
+charlie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,8
+charlie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,4
+charlie,13,France,"""Mercy""",Madame Monsieur,French,173,staging,9
+charlie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,5
+charlie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,5
+charlie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,5
+charlie,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,9
+charlie,18,Bulgaria,"""Bones""",Equinox,English,166,staging,5
+charlie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,3
+charlie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,0
+charlie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,3
+charlie,22,Israel,"""Toy""",Netta,English,529,staging,5
+charlie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,3
+charlie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,8
+charlie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,5
+charlie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,5
+julie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,9
+julie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,3
+julie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,0
+julie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,8
+julie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,5
+julie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,6
+julie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,5
+julie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,1
+julie,9,United Kingdom,"""Storm""",SuRie,English,48,song,6
+julie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,7
+julie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,9
+julie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,6
+julie,13,France,"""Mercy""",Madame Monsieur,French,173,song,8
+julie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,2
+julie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,4
+julie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,9
+julie,17,Finland,"""Monsters""",Saara Aalto,English,46,song,0
+julie,18,Bulgaria,"""Bones""",Equinox,English,166,song,4
+julie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,2
+julie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,9
+julie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,5
+julie,22,Israel,"""Toy""",Netta,English,529,song,9
+julie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,1
+julie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,0
+julie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,4
+julie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,1
+julie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,9
+julie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,5
+julie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,5
+julie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,10
+julie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,2
+julie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,0
+julie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,5
+julie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,7
+julie,9,United Kingdom,"""Storm""",SuRie,English,48,performance,4
+julie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,6
+julie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,3
+julie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,4
+julie,13,France,"""Mercy""",Madame Monsieur,French,173,performance,4
+julie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,6
+julie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,3
+julie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,4
+julie,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,6
+julie,18,Bulgaria,"""Bones""",Equinox,English,166,performance,6
+julie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,1
+julie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,5
+julie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,7
+julie,22,Israel,"""Toy""",Netta,English,529,performance,7
+julie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,8
+julie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,2
+julie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,6
+julie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,4
+julie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,9
+julie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,4
+julie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,5
+julie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,9
+julie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,7
+julie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,7
+julie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,4
+julie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,7
+julie,9,United Kingdom,"""Storm""",SuRie,English,48,staging,8
+julie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,5
+julie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,5
+julie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,9
+julie,13,France,"""Mercy""",Madame Monsieur,French,173,staging,6
+julie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,4
+julie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,2
+julie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,5
+julie,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,9
+julie,18,Bulgaria,"""Bones""",Equinox,English,166,staging,0
+julie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,7
+julie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,1
+julie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,7
+julie,22,Israel,"""Toy""",Netta,English,529,staging,6
+julie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,10
+julie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,2
+julie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,4
+julie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,5
+john,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,6
+john,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,3
+john,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,2
+john,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,7
+john,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,3
+john,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,8
+john,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,3
+john,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,3
+john,9,United Kingdom,"""Storm""",SuRie,English,48,song,2
+john,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,5
+john,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,3
+john,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,4
+john,13,France,"""Mercy""",Madame Monsieur,French,173,song,9
+john,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,4
+john,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,2
+john,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,3
+john,17,Finland,"""Monsters""",Saara Aalto,English,46,song,3
+john,18,Bulgaria,"""Bones""",Equinox,English,166,song,5
+john,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,9
+john,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,5
+john,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,6
+john,22,Israel,"""Toy""",Netta,English,529,song,7
+john,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,5
+john,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,6
+john,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,10
+john,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,7
+john,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,7
+john,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,3
+john,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,6
+john,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,10
+john,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,5
+john,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,9
+john,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,2
+john,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,7
+john,9,United Kingdom,"""Storm""",SuRie,English,48,performance,7
+john,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,0
+john,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,2
+john,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,4
+john,13,France,"""Mercy""",Madame Monsieur,French,173,performance,8
+john,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,2
+john,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,7
+john,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,10
+john,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,0
+john,18,Bulgaria,"""Bones""",Equinox,English,166,performance,1
+john,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,6
+john,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,9
+john,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,7
+john,22,Israel,"""Toy""",Netta,English,529,performance,6
+john,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,9
+john,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,4
+john,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,7
+john,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,4
+john,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,1
+john,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,1
+john,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,9
+john,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,5
+john,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,9
+john,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,3
+john,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,4
+john,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,5
+john,9,United Kingdom,"""Storm""",SuRie,English,48,staging,7
+john,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,9
+john,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,8
+john,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,1
+john,13,France,"""Mercy""",Madame Monsieur,French,173,staging,7
+john,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,5
+john,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,1
+john,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,9
+john,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,4
+john,18,Bulgaria,"""Bones""",Equinox,English,166,staging,1
+john,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,2
+john,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,7
+john,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,3
+john,22,Israel,"""Toy""",Netta,English,529,staging,1
+john,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,8
+john,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,3
+john,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,9
+john,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,8
+amy,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,4
+amy,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,2
+amy,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,4
+amy,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,6
+amy,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,4
+amy,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,1
+amy,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,9
+amy,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,2
+amy,9,United Kingdom,"""Storm""",SuRie,English,48,song,6
+amy,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,2
+amy,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,5
+amy,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,6
+amy,13,France,"""Mercy""",Madame Monsieur,French,173,song,10
+amy,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,0
+amy,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,3
+amy,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,9
+amy,17,Finland,"""Monsters""",Saara Aalto,English,46,song,7
+amy,18,Bulgaria,"""Bones""",Equinox,English,166,song,0
+amy,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,0
+amy,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,8
+amy,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,4
+amy,22,Israel,"""Toy""",Netta,English,529,song,5
+amy,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,5
+amy,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,8
+amy,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,8
+amy,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,5
+amy,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,5
+amy,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,1
+amy,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,1
+amy,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,10
+amy,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,5
+amy,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,4
+amy,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,5
+amy,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,5
+amy,9,United Kingdom,"""Storm""",SuRie,English,48,performance,2
+amy,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,10
+amy,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,1
+amy,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,10
+amy,13,France,"""Mercy""",Madame Monsieur,French,173,performance,1
+amy,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,9
+amy,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,4
+amy,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,1
+amy,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,0
+amy,18,Bulgaria,"""Bones""",Equinox,English,166,performance,8
+amy,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,2
+amy,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,4
+amy,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,5
+amy,22,Israel,"""Toy""",Netta,English,529,performance,6
+amy,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,9
+amy,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,10
+amy,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,7
+amy,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,8
+amy,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,7
+amy,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,0
+amy,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,8
+amy,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,8
+amy,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,2
+amy,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,7
+amy,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,5
+amy,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,3
+amy,9,United Kingdom,"""Storm""",SuRie,English,48,staging,5
+amy,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,4
+amy,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,3
+amy,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,3
+amy,13,France,"""Mercy""",Madame Monsieur,French,173,staging,10
+amy,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,8
+amy,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,5
+amy,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,8
+amy,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,9
+amy,18,Bulgaria,"""Bones""",Equinox,English,166,staging,3
+amy,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,2
+amy,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,5
+amy,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,3
+amy,22,Israel,"""Toy""",Netta,English,529,staging,6
+amy,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,2
+amy,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,8
+amy,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,0
+amy,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,5
+antonio,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,9
+antonio,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,5
+antonio,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,4
+antonio,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,6
+antonio,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,3
+antonio,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,6
+antonio,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,6
+antonio,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,2
+antonio,9,United Kingdom,"""Storm""",SuRie,English,48,song,7
+antonio,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,7
+antonio,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,3
+antonio,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,2
+antonio,13,France,"""Mercy""",Madame Monsieur,French,173,song,6
+antonio,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,0
+antonio,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,6
+antonio,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,6
+antonio,17,Finland,"""Monsters""",Saara Aalto,English,46,song,3
+antonio,18,Bulgaria,"""Bones""",Equinox,English,166,song,1
+antonio,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,2
+antonio,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,6
+antonio,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,9
+antonio,22,Israel,"""Toy""",Netta,English,529,song,7
+antonio,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,3
+antonio,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,7
+antonio,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,1
+antonio,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,8
+antonio,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,6
+antonio,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,1
+antonio,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,1
+antonio,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,9
+antonio,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,2
+antonio,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,8
+antonio,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,2
+antonio,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,4
+antonio,9,United Kingdom,"""Storm""",SuRie,English,48,performance,3
+antonio,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,6
+antonio,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,9
+antonio,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,3
+antonio,13,France,"""Mercy""",Madame Monsieur,French,173,performance,1
+antonio,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,7
+antonio,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,6
+antonio,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,4
+antonio,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,2
+antonio,18,Bulgaria,"""Bones""",Equinox,English,166,performance,5
+antonio,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,9
+antonio,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,7
+antonio,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,4
+antonio,22,Israel,"""Toy""",Netta,English,529,performance,3
+antonio,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,7
+antonio,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,8
+antonio,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,7
+antonio,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,0
+antonio,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,2
+antonio,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,7
+antonio,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,3
+antonio,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,5
+antonio,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,1
+antonio,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,6
+antonio,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,0
+antonio,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,8
+antonio,9,United Kingdom,"""Storm""",SuRie,English,48,staging,7
+antonio,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,1
+antonio,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,10
+antonio,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,8
+antonio,13,France,"""Mercy""",Madame Monsieur,French,173,staging,4
+antonio,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,4
+antonio,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,10
+antonio,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,9
+antonio,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,4
+antonio,18,Bulgaria,"""Bones""",Equinox,English,166,staging,7
+antonio,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,7
+antonio,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,1
+antonio,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,2
+antonio,22,Israel,"""Toy""",Netta,English,529,staging,3
+antonio,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,9
+antonio,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,0
+antonio,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,4
+antonio,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,9
+andy,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,2
+andy,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,4
+andy,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,2
+andy,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,7
+andy,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,6
+andy,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,4
+andy,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,0
+andy,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,10
+andy,9,United Kingdom,"""Storm""",SuRie,English,48,song,5
+andy,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,8
+andy,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,2
+andy,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,8
+andy,13,France,"""Mercy""",Madame Monsieur,French,173,song,7
+andy,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,7
+andy,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,1
+andy,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,5
+andy,17,Finland,"""Monsters""",Saara Aalto,English,46,song,7
+andy,18,Bulgaria,"""Bones""",Equinox,English,166,song,9
+andy,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,8
+andy,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,5
+andy,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,5
+andy,22,Israel,"""Toy""",Netta,English,529,song,8
+andy,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,3
+andy,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,9
+andy,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,2
+andy,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,8
+andy,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,9
+andy,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,1
+andy,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,10
+andy,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,6
+andy,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,10
+andy,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,5
+andy,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,7
+andy,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,1
+andy,9,United Kingdom,"""Storm""",SuRie,English,48,performance,1
+andy,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,6
+andy,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,8
+andy,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,6
+andy,13,France,"""Mercy""",Madame Monsieur,French,173,performance,8
+andy,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,8
+andy,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,3
+andy,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,0
+andy,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,5
+andy,18,Bulgaria,"""Bones""",Equinox,English,166,performance,7
+andy,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,5
+andy,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,1
+andy,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,1
+andy,22,Israel,"""Toy""",Netta,English,529,performance,10
+andy,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,1
+andy,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,6
+andy,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,4
+andy,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,3
+andy,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,10
+andy,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,2
+andy,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,4
+andy,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,6
+andy,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,10
+andy,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,4
+andy,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,3
+andy,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,3
+andy,9,United Kingdom,"""Storm""",SuRie,English,48,staging,5
+andy,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,10
+andy,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,2
+andy,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,7
+andy,13,France,"""Mercy""",Madame Monsieur,French,173,staging,9
+andy,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,8
+andy,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,6
+andy,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,1
+andy,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,8
+andy,18,Bulgaria,"""Bones""",Equinox,English,166,staging,0
+andy,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,7
+andy,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,1
+andy,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,7
+andy,22,Israel,"""Toy""",Netta,English,529,staging,8
+andy,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,3
+andy,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,1
+andy,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,5
+andy,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,7
+yvonne,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,2
+yvonne,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,3
+yvonne,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,7
+yvonne,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,8
+yvonne,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,9
+yvonne,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,8
+yvonne,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,4
+yvonne,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,7
+yvonne,9,United Kingdom,"""Storm""",SuRie,English,48,song,1
+yvonne,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,8
+yvonne,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,0
+yvonne,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,5
+yvonne,13,France,"""Mercy""",Madame Monsieur,French,173,song,6
+yvonne,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,2
+yvonne,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,2
+yvonne,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,9
+yvonne,17,Finland,"""Monsters""",Saara Aalto,English,46,song,7
+yvonne,18,Bulgaria,"""Bones""",Equinox,English,166,song,9
+yvonne,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,10
+yvonne,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,1
+yvonne,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,5
+yvonne,22,Israel,"""Toy""",Netta,English,529,song,2
+yvonne,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,9
+yvonne,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,0
+yvonne,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,8
+yvonne,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,1
+yvonne,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,4
+yvonne,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,9
+yvonne,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,9
+yvonne,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,2
+yvonne,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,1
+yvonne,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,2
+yvonne,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,2
+yvonne,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,0
+yvonne,9,United Kingdom,"""Storm""",SuRie,English,48,performance,1
+yvonne,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,3
+yvonne,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,5
+yvonne,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,9
+yvonne,13,France,"""Mercy""",Madame Monsieur,French,173,performance,9
+yvonne,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,1
+yvonne,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,9
+yvonne,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,4
+yvonne,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,4
+yvonne,18,Bulgaria,"""Bones""",Equinox,English,166,performance,1
+yvonne,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,1
+yvonne,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,8
+yvonne,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,10
+yvonne,22,Israel,"""Toy""",Netta,English,529,performance,2
+yvonne,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,2
+yvonne,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,4
+yvonne,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,6
+yvonne,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,9
+yvonne,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,5
+yvonne,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,9
+yvonne,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,8
+yvonne,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,9
+yvonne,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,6
+yvonne,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,0
+yvonne,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,2
+yvonne,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,6
+yvonne,9,United Kingdom,"""Storm""",SuRie,English,48,staging,2
+yvonne,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,3
+yvonne,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,8
+yvonne,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,9
+yvonne,13,France,"""Mercy""",Madame Monsieur,French,173,staging,6
+yvonne,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,2
+yvonne,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,4
+yvonne,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,6
+yvonne,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,8
+yvonne,18,Bulgaria,"""Bones""",Equinox,English,166,staging,7
+yvonne,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,8
+yvonne,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,10
+yvonne,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,7
+yvonne,22,Israel,"""Toy""",Netta,English,529,staging,9
+yvonne,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,9
+yvonne,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,8
+yvonne,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,5
+yvonne,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,4
+mollie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,5
+mollie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,2
+mollie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,1
+mollie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,4
+mollie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,4
+mollie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,9
+mollie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,5
+mollie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,9
+mollie,9,United Kingdom,"""Storm""",SuRie,English,48,song,2
+mollie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,8
+mollie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,2
+mollie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,7
+mollie,13,France,"""Mercy""",Madame Monsieur,French,173,song,3
+mollie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,0
+mollie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,9
+mollie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,4
+mollie,17,Finland,"""Monsters""",Saara Aalto,English,46,song,8
+mollie,18,Bulgaria,"""Bones""",Equinox,English,166,song,4
+mollie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,4
+mollie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,10
+mollie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,7
+mollie,22,Israel,"""Toy""",Netta,English,529,song,4
+mollie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,9
+mollie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,4
+mollie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,2
+mollie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,8
+mollie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,2
+mollie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,5
+mollie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,8
+mollie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,6
+mollie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,7
+mollie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,2
+mollie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,6
+mollie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,6
+mollie,9,United Kingdom,"""Storm""",SuRie,English,48,performance,4
+mollie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,3
+mollie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,6
+mollie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,3
+mollie,13,France,"""Mercy""",Madame Monsieur,French,173,performance,9
+mollie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,2
+mollie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,1
+mollie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,9
+mollie,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,7
+mollie,18,Bulgaria,"""Bones""",Equinox,English,166,performance,2
+mollie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,4
+mollie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,1
+mollie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,6
+mollie,22,Israel,"""Toy""",Netta,English,529,performance,9
+mollie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,2
+mollie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,9
+mollie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,5
+mollie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,5
+mollie,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,10
+mollie,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,2
+mollie,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,8
+mollie,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,10
+mollie,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,3
+mollie,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,2
+mollie,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,5
+mollie,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,7
+mollie,9,United Kingdom,"""Storm""",SuRie,English,48,staging,8
+mollie,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,5
+mollie,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,5
+mollie,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,8
+mollie,13,France,"""Mercy""",Madame Monsieur,French,173,staging,6
+mollie,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,2
+mollie,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,9
+mollie,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,6
+mollie,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,2
+mollie,18,Bulgaria,"""Bones""",Equinox,English,166,staging,9
+mollie,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,9
+mollie,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,4
+mollie,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,9
+mollie,22,Israel,"""Toy""",Netta,English,529,staging,9
+mollie,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,10
+mollie,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,3
+mollie,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,4
+mollie,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,5
+elijah,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,9
+elijah,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,1
+elijah,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,3
+elijah,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,9
+elijah,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,7
+elijah,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,2
+elijah,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,2
+elijah,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,8
+elijah,9,United Kingdom,"""Storm""",SuRie,English,48,song,9
+elijah,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,7
+elijah,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,5
+elijah,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,1
+elijah,13,France,"""Mercy""",Madame Monsieur,French,173,song,2
+elijah,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,7
+elijah,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,10
+elijah,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,1
+elijah,17,Finland,"""Monsters""",Saara Aalto,English,46,song,2
+elijah,18,Bulgaria,"""Bones""",Equinox,English,166,song,10
+elijah,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,7
+elijah,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,9
+elijah,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,8
+elijah,22,Israel,"""Toy""",Netta,English,529,song,4
+elijah,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,1
+elijah,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,1
+elijah,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,5
+elijah,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,1
+elijah,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,9
+elijah,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,7
+elijah,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,1
+elijah,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,5
+elijah,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,2
+elijah,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,8
+elijah,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,5
+elijah,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,4
+elijah,9,United Kingdom,"""Storm""",SuRie,English,48,performance,2
+elijah,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,9
+elijah,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,6
+elijah,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,1
+elijah,13,France,"""Mercy""",Madame Monsieur,French,173,performance,7
+elijah,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,1
+elijah,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,0
+elijah,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,5
+elijah,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,4
+elijah,18,Bulgaria,"""Bones""",Equinox,English,166,performance,5
+elijah,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,2
+elijah,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,9
+elijah,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,4
+elijah,22,Israel,"""Toy""",Netta,English,529,performance,7
+elijah,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,4
+elijah,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,6
+elijah,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,1
+elijah,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,8
+elijah,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,1
+elijah,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,3
+elijah,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,5
+elijah,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,4
+elijah,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,0
+elijah,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,3
+elijah,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,2
+elijah,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,8
+elijah,9,United Kingdom,"""Storm""",SuRie,English,48,staging,1
+elijah,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,10
+elijah,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,5
+elijah,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,5
+elijah,13,France,"""Mercy""",Madame Monsieur,French,173,staging,6
+elijah,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,9
+elijah,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,7
+elijah,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,5
+elijah,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,9
+elijah,18,Bulgaria,"""Bones""",Equinox,English,166,staging,7
+elijah,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,9
+elijah,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,1
+elijah,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,5
+elijah,22,Israel,"""Toy""",Netta,English,529,staging,6
+elijah,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,6
+elijah,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,0
+elijah,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,4
+elijah,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,7
+linda,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,7
+linda,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,0
+linda,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,7
+linda,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,1
+linda,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,2
+linda,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,2
+linda,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,1
+linda,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,4
+linda,9,United Kingdom,"""Storm""",SuRie,English,48,song,8
+linda,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,3
+linda,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,1
+linda,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,2
+linda,13,France,"""Mercy""",Madame Monsieur,French,173,song,3
+linda,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,0
+linda,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,9
+linda,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,5
+linda,17,Finland,"""Monsters""",Saara Aalto,English,46,song,5
+linda,18,Bulgaria,"""Bones""",Equinox,English,166,song,1
+linda,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,5
+linda,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,6
+linda,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,1
+linda,22,Israel,"""Toy""",Netta,English,529,song,6
+linda,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,3
+linda,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,8
+linda,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,10
+linda,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,7
+linda,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,5
+linda,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,9
+linda,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,4
+linda,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,10
+linda,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,4
+linda,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,4
+linda,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,0
+linda,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,0
+linda,9,United Kingdom,"""Storm""",SuRie,English,48,performance,3
+linda,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,0
+linda,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,7
+linda,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,7
+linda,13,France,"""Mercy""",Madame Monsieur,French,173,performance,0
+linda,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,0
+linda,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,5
+linda,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,0
+linda,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,4
+linda,18,Bulgaria,"""Bones""",Equinox,English,166,performance,8
+linda,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,2
+linda,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,2
+linda,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,5
+linda,22,Israel,"""Toy""",Netta,English,529,performance,0
+linda,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,2
+linda,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,5
+linda,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,6
+linda,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,3
+linda,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,10
+linda,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,1
+linda,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,3
+linda,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,7
+linda,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,9
+linda,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,7
+linda,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,8
+linda,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,4
+linda,9,United Kingdom,"""Storm""",SuRie,English,48,staging,10
+linda,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,0
+linda,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,2
+linda,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,8
+linda,13,France,"""Mercy""",Madame Monsieur,French,173,staging,3
+linda,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,2
+linda,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,4
+linda,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,5
+linda,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,0
+linda,18,Bulgaria,"""Bones""",Equinox,English,166,staging,7
+linda,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,1
+linda,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,3
+linda,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,5
+linda,22,Israel,"""Toy""",Netta,English,529,staging,9
+linda,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,1
+linda,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,7
+linda,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,9
+linda,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,9
+mike,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,song,1
+mike,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,song,9
+mike,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,song,10
+mike,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,song,3
+mike,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,song,6
+mike,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,song,1
+mike,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,song,4
+mike,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,song,7
+mike,9,United Kingdom,"""Storm""",SuRie,English,48,song,8
+mike,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,song,8
+mike,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,song,3
+mike,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,song,9
+mike,13,France,"""Mercy""",Madame Monsieur,French,173,song,4
+mike,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,song,6
+mike,15,Denmark,"""Higher Ground""",Rasmussen,English,226,song,5
+mike,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,song,10
+mike,17,Finland,"""Monsters""",Saara Aalto,English,46,song,4
+mike,18,Bulgaria,"""Bones""",Equinox,English,166,song,1
+mike,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,song,6
+mike,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,song,8
+mike,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,song,9
+mike,22,Israel,"""Toy""",Netta,English,529,song,8
+mike,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,song,2
+mike,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,song,5
+mike,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,song,7
+mike,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,song,6
+mike,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,performance,3
+mike,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,performance,7
+mike,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,performance,3
+mike,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,performance,8
+mike,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,performance,0
+mike,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,performance,7
+mike,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,performance,1
+mike,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,performance,8
+mike,9,United Kingdom,"""Storm""",SuRie,English,48,performance,2
+mike,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,performance,4
+mike,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,performance,6
+mike,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,performance,1
+mike,13,France,"""Mercy""",Madame Monsieur,French,173,performance,7
+mike,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,performance,8
+mike,15,Denmark,"""Higher Ground""",Rasmussen,English,226,performance,0
+mike,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,performance,10
+mike,17,Finland,"""Monsters""",Saara Aalto,English,46,performance,4
+mike,18,Bulgaria,"""Bones""",Equinox,English,166,performance,3
+mike,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,performance,8
+mike,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,performance,7
+mike,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,performance,9
+mike,22,Israel,"""Toy""",Netta,English,529,performance,2
+mike,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,performance,5
+mike,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,performance,2
+mike,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,performance,6
+mike,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,performance,8
+mike,1,Ukraine,"""Under the Ladder""",Mélovin,English,130,staging,6
+mike,2,Spain,"""Tu canción""",Amaia & Alfred,Spanish,61,staging,1
+mike,3,Slovenia,"""Hvala, ne!""",Lea Sirk,Slovene,64,staging,6
+mike,4,Lithuania,"""When We're Old""",Ieva Zasimauskaitė,English,181,staging,10
+mike,5,Austria,"""Nobody but You""",Cesár Sampson,English,342,staging,7
+mike,6,Estonia,"""La forza""",Elina Nechayeva,Italian,245,staging,6
+mike,7,Norway,"""That's How You Write a Song""",Alexander Rybak,English,144,staging,3
+mike,8,Portugal,"""O jardim""",Cláudia Pascoal,Portuguese,39,staging,5
+mike,9,United Kingdom,"""Storm""",SuRie,English,48,staging,5
+mike,10,Serbia,"""Nova deca"" (Нова деца)",Sanja Ilić & Balkanika,Serbian,113,staging,4
+mike,11,Germany,"""You Let Me Walk Alone""",Michael Schulte,English,340,staging,3
+mike,12,Albania,"""Mall""",Eugent Bushpepa,Albanian,184,staging,9
+mike,13,France,"""Mercy""",Madame Monsieur,French,173,staging,6
+mike,14,Czech Republic,"""Lie to Me""",Mikolas Josef,English,281,staging,10
+mike,15,Denmark,"""Higher Ground""",Rasmussen,English,226,staging,0
+mike,16,Australia,"""We Got Love""",Jessica Mauboy,English,99,staging,3
+mike,17,Finland,"""Monsters""",Saara Aalto,English,46,staging,8
+mike,18,Bulgaria,"""Bones""",Equinox,English,166,staging,3
+mike,19,Moldova,"""My Lucky Day""",DoReDoS,English,209,staging,2
+mike,20,Sweden,"""Dance You Off""",Benjamin Ingrosso,English,274,staging,0
+mike,21,Hungary,"""Viszlát nyár""",AWS,Hungarian,93,staging,10
+mike,22,Israel,"""Toy""",Netta,English,529,staging,8
+mike,23,Netherlands,"""Outlaw in 'Em""",Waylon,English,121,staging,3
+mike,24,Ireland,"""Together""",Ryan O'Shaughnessy,English,136,staging,3
+mike,25,Cyprus,"""Fuego""",Eleni Foureira,English,436,staging,5
+mike,26,Italy,"""Non mi avete fatto niente""",Ermal Meta & Fabrizio Moro,Italian,308,staging,5
